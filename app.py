@@ -2,5 +2,6 @@ def addition (a,b):
     return a+b
 def substraction (c,d):
     return c-d
-def division (a,b)
+def division (a,b):
+
     return a/b
